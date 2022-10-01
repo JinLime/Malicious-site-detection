@@ -1,6 +1,6 @@
-# AIVLE School 3rd Miniproject Competition
+# KT AIVLE School 3rd Miniproject Competition
 
-## 에이블스쿨 3차 미니프로젝트 : 악성사이트 탐지 모델링 대회 
+## KT 에이블스쿨 3차 미니프로젝트 : 악성사이트 탐지 모델링 대회 
 
 https://www.kaggle.com/competitions/aivle-school-3rd-miniproject-competition/overview
 
