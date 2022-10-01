@@ -14,6 +14,10 @@ https://www.kaggle.com/competitions/aivle-school-3rd-miniproject-competition/ove
 
 <img src="./img/ranking.png"  width="1418" height="55"/>
 
-### Reference
+## Reference
 
 https://quaint-woodwind-b6d.notion.site/c60976cb40cd44eca99de1bed6e35bf8
+
+## Contact
+
+bsj6551@naver.com
