@@ -6,7 +6,7 @@ https://www.kaggle.com/competitions/aivle-school-3rd-miniproject-competition/ove
 
 ## Term
 
-2022년 9월 27일 
+2022년 9월 26일 ~ 2022년 9월 27일
 
 ## Summary 
 
@@ -14,5 +14,5 @@ https://www.kaggle.com/competitions/aivle-school-3rd-miniproject-competition/ove
 
 <img src="./img/ranking.png"  width="1418" height="60"/>
 
-### Reference : 
+### Reference
 
