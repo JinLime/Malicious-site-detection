@@ -12,7 +12,7 @@ https://www.kaggle.com/competitions/aivle-school-3rd-miniproject-competition/ove
 
 *다른 누구보다 더 뛰어난 악성사이트 탐지 모델 생성*   
 
-<img src="./img/ranking.png"  width="1418" height="60"/>
+<img src="./img/ranking.png"  width="1418" height="55"/>
 
 ### Reference
 
