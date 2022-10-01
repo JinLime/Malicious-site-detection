@@ -16,3 +16,4 @@ https://www.kaggle.com/competitions/aivle-school-3rd-miniproject-competition/ove
 
 ### Reference
 
+https://quaint-woodwind-b6d.notion.site/c60976cb40cd44eca99de1bed6e35bf8
